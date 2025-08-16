@@ -7,7 +7,7 @@
 - Olá, meu nome é Samuel Borges da Costa Covatti
 - Como prefiro ser chamado Samuel Covatti
 - Estudo Análise e Desenvolvimento de Sistemas, 3º semestre
-- Idade: 17 Anos
+- Idade: 18 Anos
 - Estou procurando alguma empresa para começar meu primeiro serviço/estágio
 
 ## Linguagens que Estudei no curso
